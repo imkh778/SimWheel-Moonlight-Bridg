@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flutter_moonlight_streaming_sample
 
 A new Flutter project.
@@ -47,4 +47,4 @@ Moonlight-derived code is licensed under the GNU General Public License, version
 ## Scope
 
 This project covers the Android Moonlight streaming integration only. The rest of the SimWheel application is maintained separately.
->>>>>>> 52ef9f7aa21cb4c4fe843b7a7e41009301dd83be
+
